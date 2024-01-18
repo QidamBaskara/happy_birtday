@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-color: rgb(201, 14, 176);
+    color: white;
+    font-family: 'Noto Serif', serif;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
